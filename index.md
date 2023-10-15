@@ -18,7 +18,7 @@ I am a CS Ph.D. student at University of Maryland since Spring 2023, advised by 
   was covered in news articles such as <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, 
   <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">The Register</a>,
   and <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">ArtTechnica</a>.
-  - **[Sep. 2023]** Our paper "ZeroGrad: Costless conscious remedies for catastrophic overfitting in the FGSM adversarial training" was published by Elsveir Journal.
+- **[Sep. 2023]** Our paper "ZeroGrad: Costless conscious remedies for catastrophic overfitting in the FGSM adversarial training" was published by Elsveir Journal.
 - **[Jun. 2023]** Our paper "Robust Routing Made Easy: Reinforcing Networks Against Non-Benign Faults" was published by EEE/ACM Transactions on Networking.
 
 {% include_relative _includes/publications.md %}
