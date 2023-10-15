@@ -3,29 +3,24 @@ layout: homepage
 ---
 
 ## About Me
-
-I am a second-year Ph.D. student at the University of Maryland, 
-advised by
-<a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>
- and
- <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>.
- 
- My research centers around Deep Learning Robustness and Interpretability, with a keen interest in comprehending what models learn, how they utilize their knowledge for predictions, and understanding their successes and failures. I strive to represent these concepts in easily understandable terms, often using languages.
- 
- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents.
+I am a CS Ph.D. student at University of Maryland since Spring 2023, advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Soheil Feizi</a>.
+  My research mainly revolves around Foundation and Multimodal Models,
+  covering topics such as image generation, vision-language models, and interpretability and robustness of machine learning methods.
 
 ## Research Interests
 
-- **Deep Learning Robustness and Interpretability:** data poisoning, vision-language models, human-understandable explainability.
-- **Game Theory:** mechanism design, quality of equilibria.
+- **Generative AI:** diffusion models, multimodal models, large language models.
+- **Trustworthy AI:** adversarial robustness, deepfake detection.
+- **AI Interpretability:** spurious features, failure-mode detection.
 
 ## News
-- **[May. 2023]** Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.
-- **[May. 2023]** We submitted our manuscript "A Regret Analysis of Repeated Delegated Choice" to be reviewed at NeurIPS 2023!
-- **[May. 2023]** Our paper "Delegating to Multiple Agents" is accepted to EC 2023!
-- **[Apr. 2023]** Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023!
-- **[Apr. 2023]** Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023!
-- **[Feb. 2023]** Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.
+- **[Oct. 2023]** Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks"
+  was covered in news articles such as <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, 
+  <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">The Register</a>,
+  and <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">ArtTechnica</a>.
+  
+- **[Sep. 2023]** Our paper "ZeroGrad: Costless conscious remedies for catastrophic overfitting in the FGSM adversarial training" was published by Elsveir Journal.
+- **[Jun. 2023]** Our paper "Robust Routing Made Easy: Reinforcing Networks Against Non-Benign Faults" was published by EEE/ACM Transactions on Networking.
 
 {% include_relative _includes/publications.md %}
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
