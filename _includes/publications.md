@@ -162,7 +162,7 @@
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10155456">Robust Routing Made Easy: Reinforcing Networks Against Non-Benign Faults</a></div>
-        <div class="author">Christoph Lenzen, Moti Medina, <strong>Saberi</strong>, Stefan Schmid</div>
+        <div class="author">Christoph Lenzen, Moti Medina, <strong>Mehrdad Saberi</strong>, Stefan Schmid</div>
         <div class="periodical"><em>IEEE/ACM Transactions on Networking</em>
         </div>  
       <div class="links">
