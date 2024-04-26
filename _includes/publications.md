@@ -13,13 +13,13 @@
     <img src="./assets/img/ai-detection.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
      
-    <abbr class="badge">ICLR 24</abbr>
+    <abbr class="badge">ICLR</abbr>
     
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2310.00076">Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks</a></div>
       <div class="author"><strong>Mehrdad Saberi</strong>, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, Wenxiao Wang, Soheil Feizi</div>
-      <div class="periodical"><em>Submitted to ICLR 2024.</em>
+      <div class="periodical"><em>International Conference on Learning Representations (ICLR), 2024.</em>
       </div>  
     <div class="links">
        
@@ -48,13 +48,13 @@
       <img src="./assets/img/prime.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
       
        
-      <abbr class="badge">ICLR 24</abbr>
+      <abbr class="badge">ICLR</abbr>
       
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://arxiv.org/abs/2310.00164">PRIME: Prioritizing Interpretability in Failure Mode Extraction</a></div>
         <div class="author">Keivan Rezaei*, <strong>Mehrdad Saberi*</strong>, Mazda Moayeri, Soheil Feizi</div>
-        <div class="periodical"><em>Submitted to ICLR 2024.</em>
+        <div class="periodical"><em>International Conference on Learning Representations (ICLR), 2024.</em>
         </div>  
       <div class="links">
          
@@ -91,7 +91,6 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://arxiv.org/abs/2310.02426">EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods</a></div>
         <div class="author">Samyadeep Basu*, <strong>Mehrdad Saberi*</strong>, Shweta Bhardwaj*, Atoosa Malemir Chegini, Daniela Massiceti, Maziar Sanjabi, Shell Xu Hu, Soheil Feizi</div>
-        <div class="periodical"><em>Submitted to ICLR 2024.</em>
         </div>  
       <div class="links">
          
@@ -128,7 +127,7 @@
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2667305323000832">ZeroGrad: Costless conscious remedies for catastrophic overfitting in the FGSM adversarial training</a></div>
           <div class="author">Zeinab Golgooni, <strong>Mehrdad Saberi*</strong>, Masih Eskandar*, Mohammad Hossein Rohban</div>
-          <div class="periodical"><em>Elsvier</em>
+          <div class="periodical"><em>Elsvier: Intelligent Systems with Applications (2023)</em>
           </div>  
         <div class="links">
            
