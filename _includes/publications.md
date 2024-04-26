@@ -91,7 +91,6 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://arxiv.org/abs/2310.02426">EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods</a></div>
         <div class="author">Samyadeep Basu*, <strong>Mehrdad Saberi*</strong>, Shweta Bhardwaj*, Atoosa Malemir Chegini, Daniela Massiceti, Maziar Sanjabi, Shell Xu Hu, Soheil Feizi</div>
-        </div>  
       <div class="links">
          
         <a href="https://arxiv.org/pdf/2310.02426.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -127,7 +126,7 @@
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2667305323000832">ZeroGrad: Costless conscious remedies for catastrophic overfitting in the FGSM adversarial training</a></div>
           <div class="author">Zeinab Golgooni, <strong>Mehrdad Saberi*</strong>, Masih Eskandar*, Mohammad Hossein Rohban</div>
-          <div class="periodical"><em>Elsvier: Intelligent Systems with Applications (2023)</em>
+          <div class="periodical"><em>Elsvier: Intelligent Systems with Applications, 2023</em>
           </div>  
         <div class="links">
            
