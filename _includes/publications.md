@@ -13,7 +13,7 @@
     <img src="./assets/img/ai-detection.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
      
-    <abbr class="badge">ArXiv</abbr>
+    <abbr class="badge">ICLR 24</abbr>
     
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -30,7 +30,7 @@
       
       
        
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:13TFOsNWYIIJ:scholar.google.com/&output=citation&scisdr=ClExayY9EO75yYRkZl0:AFWwaeYAAAAAZSxifl37FSy7xy0uX1NC0YD4ht4&scisig=AFWwaeYAAAAAZSxifu1ypxo34qHZb5dxIP3VU1M&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:13TFOsNWYIIJ:scholar.google.com/&output=citation&scisdr=ClEwYZ4DEJ7FiZwAHaM:AFWwaeYAAAAAZiwGBaPNZI9PBMAaEJ7-HRAYbdE&scisig=AFWwaeYAAAAAZiwGBRTSKHdRLjBLPp1tlFPcY8M&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       
       
     </div>
@@ -48,7 +48,7 @@
       <img src="./assets/img/prime.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
       
        
-      <abbr class="badge">ArXiv</abbr>
+      <abbr class="badge">ICLR 24</abbr>
       
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
