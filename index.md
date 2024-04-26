@@ -14,6 +14,8 @@ I am a CS Ph.D. student at University of Maryland since Spring 2023, advised by 
 - **AI Interpretability:** spurious features, failure-mode detection.
 
 ## News
+- **[Mar. 2024]** I had the opportunity to present our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" in <a href="https://www.ftc.gov/news-events/events/2024/03/privacycon-2024">PrivacyCon 2024</a> and <a href="https://superagi.com/agi-leap-summit/">AGI Leap Summit</a>. (<a href="https://vimeo.com/922128271#t=11090s">Video Link</a>)
+- **[Jan. 2024]** Two of our papers, "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" and "PRIME: Prioritizing Interpretability in Failure Mode Extraction" got accepted into ICLR 2024 Conference.
 - **[Oct. 2023]** Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks"
   was covered in news articles such as <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, 
   <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">The Register</a>,
