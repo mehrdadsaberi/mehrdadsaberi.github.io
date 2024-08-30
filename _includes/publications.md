@@ -5,6 +5,35 @@
 <ol class="bibliography">
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+     
+    <img src="./assets/img/futuregenai.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    
+     
+    <abbr class="badge">Preprint</abbr>
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.00076">Securing the Future of GenAI: Policy and Technology</a></div>
+      <div class="author">Mihai Christodorescu, Ryan Craven, Soheil Feizi, Neil Gong, Mia Hoffmann, Somesh Jha, Zhengyuan Jiang, <strong>Mehrdad Saberi</strong>, John Mitchell, Jessica Newman, Emelia Probasco, Yanjun Qi, Khawaja Shams, Matthew Turek</div>
+      <!-- <div class="periodical"><em></em></div> -->
+    <div class="links">
+       
+      <a href="https://eprint.iacr.org/2024/855.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+      
+       
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:13TFOsNWYIIJ:scholar.google.com/&output=citation&scisdr=ClEwYZ4DEJ7FiZwAHaM:AFWwaeYAAAAAZiwGBaPNZI9PBMAaEJ7-HRAYbdE&scisig=AFWwaeYAAAAAZiwGBRTSKHdRLjBLPp1tlFPcY8M&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      
+      
+    </div>
+  </div>
+</div>
+</li>
+
+<br />
 
 <li>
 <div class="pub-row">
@@ -26,7 +55,7 @@
       <a href="https://arxiv.org/pdf/2310.00076.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
        
-      <!-- <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/mehrdadsaberi/watermark_robustness" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       
       
        
