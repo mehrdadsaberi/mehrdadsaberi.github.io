@@ -182,3 +182,8 @@ section h2:first-child { margin-top: 0; }
   .exp-logo { width: 26px; height: 26px; }
   .news-row { grid-template-columns: 1fr; gap: 0; }
 }
+
+/* Larger profile photo (theme default is ~105px) */
+.image.avatar img { width: 150px; height: 150px; max-width: none; box-sizing: content-box; object-fit: cover; padding: 14px; }
+@media print, screen and (max-width: 960px) { .image.avatar img { width: 150px; height: 150px; } }
+@media print, screen and (max-width: 480px) { .image.avatar img { width: 125px; height: 125px; } }
