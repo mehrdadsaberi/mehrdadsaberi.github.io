@@ -12,6 +12,10 @@
   text: '"<a href="https://arxiv.org/abs/2605.21965">SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents</a>" is accepted to <i>NeurIPS 2026</i>.'
 
 - date: Jun 2026
+  type: milestone
+  text: Recognized as an <a href="./assets/files/cvpr2026_outstanding_reviewer.pdf">Outstanding Reviewer</a> for <i>CVPR 2026</i>.
+
+- date: Jun 2026
   type: press
   text: Maryland Today <a href="https://today.umd.edu/umd-team-develops-precise-undo-button-for-ai-memory">covered</a> our work on machine unlearning (MSA)!
 
