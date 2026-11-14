@@ -3,11 +3,11 @@
   type: milestone
   text: I successfully defended my Ph.D. dissertation at the University of Maryland! 🎓
 
-- date: 2026
+- date: Oct 2026
   type: paper
   text: '"Adaptable Watermarking: Transforming Image Watermarking Models via Lightweight Adapters" is accepted to <i>WACV 2027</i>.'
 
-- date: 2026
+- date: Sep 2026
   type: paper
   text: '"<a href="https://arxiv.org/abs/2605.21965">SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents</a>" is accepted to <i>NeurIPS 2026</i>.'
 
