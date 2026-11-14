@@ -1,0 +1,33 @@
+# Newest first (by start date). Logos live in assets/img/logos/.
+- group: Experience
+  items:
+    - org: Hive AI
+      logo: hive.png
+      role: ML Engineer
+      focus: AI-inpainting localization
+      time: 05/26 – 09/26
+    - org: Adobe
+      logo: adobe.png
+      role: Research Intern
+      focus: upgradable image watermarking
+      time: 05/25 – 12/25
+    - org: Cruise
+      logo: cruise.png
+      role: Research Intern
+      focus: video inpainting for AV perception
+      time: 06/24 – 11/24
+    - org: Reliable AI Lab, University of Maryland
+      logo: umd.png
+      role: Ph.D. Researcher
+      focus: advised by Soheil Feizi
+      time: 01/23 – 11/26
+    - org: TML Lab, EPFL
+      logo: epfl.png
+      role: Research Intern
+      focus: non-L<sub>p</sub> adversarial robustness
+      time: 07/21 – 09/21
+    - org: Max Planck Institute for Informatics
+      logo: mpi.png
+      role: Research Intern
+      focus: robust network routing
+      time: 06/20 – 09/20

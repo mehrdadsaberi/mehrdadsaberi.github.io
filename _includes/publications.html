@@ -1,0 +1,20 @@
+<h2 id="publications">Publications</h2>
+<div class="scroll-box pub-box">
+{% for p in site.data.publications %}
+  <div class="pub">
+    <div class="pub-thumb">
+      {% if p.image %}<img src="./assets/img/{{ p.image }}" alt="" loading="lazy">{% else %}<div class="pub-thumb-text">{{ p.badge }}</div>{% endif %}
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</div>
+      <div class="pub-authors">{{ p.authors }}</div>
+      <div class="pub-meta">
+        <span class="pub-badge">{{ p.badge }}</span>
+        <span class="pub-venue">{{ p.venue }}</span>
+        {% for l in p.links %}<a class="pub-link" href="{{ l.url }}" target="_blank" rel="noopener">{{ l.name }}</a>{% endfor %}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+<p class="pub-note">* denotes equal contribution</p>

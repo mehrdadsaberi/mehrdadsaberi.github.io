@@ -1,0 +1,64 @@
+# Newest first. type: milestone | career | paper | talk | press
+- date: Nov 2026
+  type: milestone
+  text: I successfully defended my Ph.D. dissertation at the University of Maryland! 🎓
+
+- date: 2026
+  type: paper
+  text: '"Adaptable Watermarking: Transforming Image Watermarking Models via Lightweight Adapters" is accepted to <i>WACV 2027</i>.'
+
+- date: 2026
+  type: paper
+  text: '"<a href="https://arxiv.org/abs/2605.21965">SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents</a>" is accepted to <i>NeurIPS 2026</i>.'
+
+- date: Jun 2026
+  type: press
+  text: Maryland Today <a href="https://today.umd.edu/umd-team-develops-precise-undo-button-for-ai-memory">covered</a> our work on machine unlearning (MSA)!
+
+- date: May 2026
+  type: career
+  text: Joined <i>Hive AI</i> as an ML Engineer, working on localizing AI-inpainted regions in images.
+
+- date: Jan 2026
+  type: paper
+  text: '"<a href="https://arxiv.org/abs/2506.20941">Revisiting the Past: Data Unlearning with Model State History</a>" is accepted to <i>ICLR 2026</i> (<a href="https://www.cs.umd.edu/node/28183">UMD news</a>).'
+
+- date: Sep 2025
+  type: paper
+  text: '"<a href="https://arxiv.org/abs/2506.07001">Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text</a>" is accepted to <i>NeurIPS 2025</i>.'
+
+- date: May 2025
+  type: career
+  text: Started a research internship with the Content Authenticity team at <i>Adobe</i>.
+
+- date: Aug 2024
+  type: milestone
+  text: Co-organizing the <a href="https://openreview.net/forum?id=LYvWVFdGZN">Erasing the Invisible</a> watermark stress-test competition at <i>NeurIPS 2024</i>.
+
+- date: Jun 2024
+  type: career
+  text: Started a research internship with the GenAI team at <i>Cruise</i>.
+
+- date: May 2024
+  type: paper
+  text: Check out <a href="https://eprint.iacr.org/2024/855">our new work</a> on the risks and opportunities of modern generative AI.
+
+- date: Mar 2024
+  type: talk
+  text: Presented "Robustness of AI-Image Detectors" at <a href="https://www.ftc.gov/news-events/events/2024/03/privacycon-2024">PrivacyCon 2024</a> and <a href="https://superagi.com/agi-leap-summit/">AGI Leap Summit</a> (<a href="https://vimeo.com/922128271#t=11090s">video</a>).
+
+- date: Jan 2024
+  type: paper
+  text: '"Robustness of AI-Image Detectors" and "PRIME: Prioritizing Interpretability in Failure Mode Extraction" are accepted to <i>ICLR 2024</i>.'
+
+- date: Oct 2023
+  type: press
+  text: Our AI-image detector robustness work was covered by <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">The Register</a>, and <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Ars Technica</a>.
+
+- date: Sep 2023
+  type: paper
+  text: '"ZeroGrad" is published in <i>Intelligent Systems with Applications</i> (Elsevier).'
+
+- date: Jun 2023
+  type: paper
+  text: '"Robust Routing Made Easy" is published in <i>IEEE/ACM Transactions on Networking</i>.'

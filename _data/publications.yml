@@ -1,0 +1,124 @@
+# Newest first. Use <b>…</b> around my name. "image" is optional (falls back to a venue tile).
+- title: "Adaptable Watermarking: Transforming Image Watermarking Models via Lightweight Adapters"
+  authors: <b>Mehrdad Saberi</b>, Vishal Asnani, Shruti Agarwal, Soheil Feizi, John Collomosse
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision
+  badge: WACV 2027
+  image: adaptable_wm.png
+
+- title: "SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents"
+  url: https://arxiv.org/abs/2605.21965
+  authors: <b>Mehrdad Saberi*</b>, Keivan Rezaei*, Soheil Feizi
+  venue: Conference on Neural Information Processing Systems
+  badge: NeurIPS 2026
+  image: spechop.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2605.21965" }
+    - { name: Code, url: "https://github.com/mehrdadsaberi/spechop" }
+
+- title: "Revisiting the Past: Data Unlearning with Model State History"
+  url: https://arxiv.org/abs/2506.20941
+  authors: Keivan Rezaei*, <b>Mehrdad Saberi*</b>, Abhilasha Ravichander, Soheil Feizi
+  venue: International Conference on Learning Representations
+  badge: ICLR 2026
+  image: msa.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2506.20941" }
+    - { name: Code, url: "https://github.com/mehrdadsaberi/MSA_unlearning" }
+
+- title: "Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text"
+  url: https://arxiv.org/abs/2506.07001
+  authors: Yize Cheng*, Vinu Sankar Sadasivan*, <b>Mehrdad Saberi*</b>, Shoumik Saha, Soheil Feizi
+  venue: Conference on Neural Information Processing Systems
+  badge: NeurIPS 2025
+  image: adv_paraphrasing.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2506.07001" }
+    - { name: Code, url: "https://github.com/chengez/Adversarial-Paraphrasing" }
+
+- title: "IConMark: Robust Interpretable Concept-Based Watermark for AI Images"
+  url: https://arxiv.org/abs/2507.13407
+  authors: Vinu Sankar Sadasivan, <b>Mehrdad Saberi</b>, Soheil Feizi
+  venue: GenAI Watermarking Workshop @ ICLR
+  badge: ICLR-W 2025
+  image: iconmark.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2507.13407" }
+
+- title: "Mitigating Compositional Failures in Text-to-Image Models with Causal Text Embedding Refinement"
+  url: https://arxiv.org/abs/2406.07844
+  authors: Arman Zarei, Keivan Rezaei, Samyadeep Basu, <b>Mehrdad Saberi</b>, Mazda Moayeri, Priyatham Kattakinda, Adrienne Raglin, Anjon Basak, Soheil Feizi
+  venue: PerCom Workshops
+  badge: PerCom-W 2025
+  image: compositional.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2406.07844" }
+
+- title: "Erasing the Invisible: A Stress-Test Challenge for Image Watermarks"
+  url: https://openreview.net/forum?id=LYvWVFdGZN
+  authors: Mucong Ding, Tahseen Rabbani, Bang An, Souradip Chakraborty, Chenghao Deng, <b>Mehrdad Saberi</b>, et al.
+  venue: NeurIPS Competition Track
+  badge: NeurIPS 2024
+  image: erasing_invisible.png
+
+- title: "DREW: Towards Robust Data Provenance by Leveraging Error-Controlled Watermarking"
+  url: https://arxiv.org/abs/2406.02836
+  authors: <b>Mehrdad Saberi</b>, Vinu Sankar Sadasivan, Arman Zarei, Hessam Mahdavifar, Soheil Feizi
+  venue: arXiv preprint
+  badge: arXiv 2024
+  image: drew.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2406.02836" }
+    - { name: Code, url: "https://github.com/mehrdadsaberi/DREW" }
+
+- title: "Securing the Future of GenAI: Policy and Technology"
+  url: https://eprint.iacr.org/2024/855
+  authors: Mihai Christodorescu, Ryan Craven, Soheil Feizi, Neil Gong, Mia Hoffmann, Somesh Jha, Zhengyuan Jiang, <b>Mehrdad Saberi</b>, John Mitchell, Jessica Newman, Emelia Probasco, Yanjun Qi, Khawaja Shams, Matthew Turek
+  venue: Cryptology ePrint Archive
+  badge: Preprint 2024
+  image: futuregenai.png
+  links:
+    - { name: PDF, url: "https://eprint.iacr.org/2024/855.pdf" }
+
+- title: "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks"
+  url: https://arxiv.org/abs/2310.00076
+  authors: <b>Mehrdad Saberi</b>, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, Wenxiao Wang, Soheil Feizi
+  venue: International Conference on Learning Representations
+  badge: ICLR 2024
+  image: ai-detection.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2310.00076.pdf" }
+    - { name: Code, url: "https://github.com/mehrdadsaberi/watermark_robustness" }
+
+- title: "PRIME: Prioritizing Interpretability in Failure Mode Extraction"
+  url: https://arxiv.org/abs/2310.00164
+  authors: Keivan Rezaei*, <b>Mehrdad Saberi*</b>, Mazda Moayeri, Soheil Feizi
+  venue: International Conference on Learning Representations
+  badge: ICLR 2024
+  image: prime.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2310.00164.pdf" }
+
+- title: "EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods"
+  url: https://arxiv.org/abs/2310.02426
+  authors: Samyadeep Basu*, <b>Mehrdad Saberi*</b>, Shweta Bhardwaj*, Atoosa Malemir Chegini, Daniela Massiceti, Maziar Sanjabi, Shell Xu Hu, Soheil Feizi
+  venue: arXiv preprint
+  badge: arXiv 2023
+  image: editval.png
+  links:
+    - { name: PDF, url: "https://arxiv.org/pdf/2310.02426.pdf" }
+
+- title: "ZeroGrad: Costless Conscious Remedies for Catastrophic Overfitting in the FGSM Adversarial Training"
+  url: https://www.sciencedirect.com/science/article/pii/S2667305323000832
+  authors: Zeinab Golgooni, <b>Mehrdad Saberi*</b>, Masih Eskandar*, Mohammad Hossein Rohban
+  venue: "Elsevier: Intelligent Systems with Applications"
+  badge: Elsevier 2023
+  image: zerograd.png
+
+- title: "Robust Routing Made Easy: Reinforcing Networks Against Non-Benign Faults"
+  url: https://ieeexplore.ieee.org/abstract/document/10155456
+  authors: Christoph Lenzen, Moti Medina, <b>Mehrdad Saberi</b>, Stefan Schmid
+  venue: IEEE/ACM Transactions on Networking
+  badge: IEEE ToN 2023
+  image: routing.png
+  links:
+    - { name: PDF, url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10155456" }

@@ -1,0 +1,17 @@
+<h2 id="experience">Experience</h2>
+<div class="exp-list">
+{% for g in site.data.experience %}
+  {% unless forloop.first %}<div class="exp-divider"><span>{{ g.group }}</span></div>{% endunless %}
+  {% for e in g.items %}
+  <div class="exp-row">
+    <img class="exp-logo" src="./assets/img/logos/{{ e.logo }}" alt="{{ e.org }} logo">
+    <div class="exp-main">
+      <span class="exp-org">{{ e.org }}</span>
+      <span class="exp-role">{{ e.role }}</span>
+      <div class="exp-focus">{{ e.focus }}</div>
+    </div>
+    <span class="exp-time">{{ e.time }}</span>
+  </div>
+  {% endfor %}
+{% endfor %}
+</div>

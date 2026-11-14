@@ -1,0 +1,9 @@
+<h2 id="news">News</h2>
+<div class="scroll-box news-box">
+{% for n in site.data.news %}
+  <div class="news-row news-{{ n.type }}">
+    <span class="news-date">{{ n.date }}</span>
+    <span class="news-text">{{ n.text }}</span>
+  </div>
+{% endfor %}
+</div>
