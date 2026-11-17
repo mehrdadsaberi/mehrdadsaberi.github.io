@@ -27,7 +27,7 @@
 
 - title: "Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text"
   url: https://arxiv.org/abs/2506.07001
-  authors: Yize Cheng*, Vinu Sankar Sadasivan*, <b>Mehrdad Saberi*</b>, Shoumik Saha, Soheil Feizi
+  authors: Yize Cheng*, Vinu Sankar Sadasivan*, <b>Mehrdad Saberi</b>, Shoumik Saha, Soheil Feizi
   venue: Conference on Neural Information Processing Systems
   badge: NeurIPS 2025
   image: adv_paraphrasing.png
